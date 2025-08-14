@@ -1,7 +1,0 @@
-{
-    "TOKEN"                     : "<DISCORD-TOKEN>",
-    "DEFAULT_CHANNEL_ID"        : <DISCORD-CHANNEL-ID>,
-    "DEBUG_CHANNEL_ID"          : <DISCORD-CHANNEL-ID>,
-    "TEST_ROLE_NAME"            : "<ROLL-NAME>",
-    "MESSAGE_RETENTION_SECONDS" : 600
-}
